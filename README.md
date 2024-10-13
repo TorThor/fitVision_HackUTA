@@ -3,6 +3,10 @@ Our HackUTA2024 submission; a computer vision project aimed at analyzing bodywei
 
 Currently, fitVision analyzes your bodyweight exercise form and provides live-feedback in video format on your form. It also counts repetitions! 
 
+## Demo
+<iframe width="386" height="687" src="https://www.youtube.com/embed/Bl1vMDGw0V4" title="HackUTA 2024: fitVision Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+See our MLH DevPost here too! https://devpost.com/software/bodyweight-exercise-form-analysis
+
 ## How to run:
 1. Create a Python virtual environment and activate it
 2. Install dependencies by performing `pip install -r requirements.txt` in GitBash with Python version 3.9.13 (not tested for other versions, will most likely work with newer versions though)
