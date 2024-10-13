@@ -6,7 +6,7 @@ Currently, fitVision analyzes your bodyweight exercise form and provides live-fe
 ## Demo
 [![fitVision Demo](https://img.youtube.com/vi/Bl1vMDGw0V4/0.jpg)](https://www.youtube.com/watch?v=Bl1vMDGw0V4)
 
-See our MLH DevPost here too! https://devpost.com/software/bodyweight-exercise-form-analysis
+Frontend mobile app coming to a day near you soon. See our MLH DevPost here too! https://devpost.com/software/bodyweight-exercise-form-analysis
 
 ## How to run:
 1. Create a Python virtual environment and activate it
