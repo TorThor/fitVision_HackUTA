@@ -17,4 +17,4 @@ Frontend mobile app coming to a day near you soon. See our MLH DevPost here too!
 
 ## Contact
 Tor Qureshi: taq3881@mavs.uta.edu
-Nick Truong: sxt7158@mavs.uta.edu
+Si Hoai Phuc Truong: sxt7158@mavs.uta.edu
