@@ -1,3 +1,5 @@
+# Continuation of this project has moved onto a private repo. 
+
 # fitVision HackUTA2024
 Our HackUTA2024 submission; a computer vision project aimed at analyzing bodyweight exercise form from a mobile application using Google's lightweight MoveNet kinematic single-pose thunder pose-estimation model. This is not meant to be a finished product, but rather a launch point for our project. 
 
